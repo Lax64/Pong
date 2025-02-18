@@ -11,3 +11,5 @@
 - If you extract the project and you see another folder with the same name as the project, just move it one step back in file explorer and the 2 files should fuse.
   
 - To run this project you have to have openFrameworks downloaded on your machine and have it placed in the "myApps" folder.
+
+- Finally makes sure to open the .sln project labeled "Juiced_Up_pong".
