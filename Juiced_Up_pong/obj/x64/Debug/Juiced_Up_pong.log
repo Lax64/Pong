@@ -1,0 +1,391 @@
+﻿  main.cpp
+  ofApp.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Pong\Juiced_Up_pong\src\ofApp.cpp(61,2): warning C4996: 'ofSeedRandom': use ofSetRandomSeed() or of::random::seed() instead
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvContourFinder.cpp(142,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvContourFinder.cpp(146,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(849,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(849,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(854,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvImage.cpp(854,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(118,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(118,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(123,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(123,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp(306,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ETF.cpp
+  fdog.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Calibration.cpp
+  ContourFinder.cpp
+  Distance.cpp
+  Flow.cpp
+  Helpers.cpp
+  Kalman.cpp
+  ObjectFinder.cpp
+  RunningBackground.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Distance.cpp(21,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Distance.cpp(121,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Distance.cpp(122,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Distance.cpp(30,1): warning C4700: uninitialized local variable 'bestScore' used
+  Tracker.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\ContourFinder.cpp(154,23): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\ContourFinder.cpp(314,41): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\ObjectFinder.cpp(65,22): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\ObjectFinder.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Calibration.cpp(338,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Calibration.cpp(424,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Calibration.cpp(568,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(330,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(331,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(330,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(331,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(168,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Tracker.h(214,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(245,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(245,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+  Wrappers.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(130,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Utilities.cpp(40,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Wrappers.cpp(60,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Wrappers.cpp(61,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Wrappers.cpp(110,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\src\Wrappers.cpp(111,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(330,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(331,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(330,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxCv-master\libs\ofxCv\include\ofxCv\Utilities.h(331,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(708,6): warning C4244: '=': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(708,6): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(708,6): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(708,6): warning C4244:             PixelType=unsigned char
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(708,6): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:             PixelType=unsigned char
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:             PixelType=unsigned char
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:             PixelType=unsigned char
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:             PixelType=unsigned char
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxInputField.cpp(369,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxInputField.cpp(530,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxInputField.cpp(557,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxInputField.cpp(559,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxInputField.cpp(775,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(215,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(216,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(225,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(226,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(245,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxColorPicker.cpp(246,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\graphics\ofPolyline.inl(409,69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:             PixelType=unsigned short
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(27,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:             PixelType=unsigned short
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(28,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:             PixelType=unsigned short
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(29,10): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244: 'initializing': conversion from 'float' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:             PixelType=unsigned short
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(30,10): warning C4244:         ]
+  ofxSliderGroup.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(552,14): warning C4244: '=': conversion from 'int' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(552,14): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(552,14): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(552,14): warning C4244:             PixelType=float
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(552,14): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(555,14): warning C4244: '=': conversion from 'int' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(555,14): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(555,14): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(555,14): warning C4244:             PixelType=float
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(555,14): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(558,14): warning C4244: '=': conversion from 'int' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(558,14): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(558,14): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(558,14): warning C4244:             PixelType=float
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(558,14): warning C4244:         ]
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(561,14): warning C4244: '=': conversion from 'int' to 'PixelType', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(561,14): warning C4244:         with
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(561,14): warning C4244:         [
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(561,14): warning C4244:             PixelType=float
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\types\ofColor.h(561,14): warning C4244:         ]
+  ofxToggle.cpp
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,41): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,49): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,57): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(58,54): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,41): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,49): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,57): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(58,54): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,41): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,49): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,57): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(58,54): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,glm::packed_highp>::length_type', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(25,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp(58,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  Juiced_Up_pong.vcxproj -> C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Pong\Juiced_Up_pong\bin\Juiced_Up_pong_debug.exe
+  
+  	                   2	C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Pong\Juiced_Up_pong\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Pong\Juiced_Up_pong\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\Wu1g1\Downloads\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Pong\Juiced_Up_pong\bin\fmodL.dll
